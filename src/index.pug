@@ -1,0 +1,60 @@
+doctype html
+html(lang='en')
+  head
+    title My simple website
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    meta(name='theme-color' content='#1F2831')
+    link(rel='stylesheet' href='css/main.css')
+    block styles
+  body
+    nav.navbar
+      ul.navbar-wrapper
+        li.navbar-item Home
+        li.navbar-item.selected About us
+        li.navbar-item Source code
+    .container
+      h1 Content here
+      form(class='stavklass')
+        .form-field
+          label(for='stamina') Выносливость
+          input(type='number' name='stamina' id='stamina' min='5' value='5')
+        .form-field
+          label(for='goldPerFight') Золота за бой в среднем
+          input(type='number' name='goldPerFight' id='goldPerFight' min='0' value='0')
+        ul.typeList
+        ul.itemList
+        .form-btn
+          input(type='submit' name='commit' value='Рассчитать' class='btn')
+    .answer
+      //table
+        tr
+          td Максимум удержания золота
+          td#maxGoldHold -
+        tr
+          td Максимум получения золота
+          td#maxGoldGet -
+        tr
+          td Необходимы промежуточные предметы
+          td Нет
+        tr
+          td Необходимо купить Короткое копьё
+          td -
+        tr
+          td Необходимо купить Бронзовый щит
+          td -
+        tr
+          td Необходимо купить Длинный меч
+          td -
+        tr
+          td Необходимо купить Меч вдовы
+          td -
+        tr
+          td Переплата
+          td -
+        tr
+          td Необходимо потратить часов
+          td -
+        tr
+          td Необходимо потратить дней
+          td -
+    script(src='scripts/main.js')

@@ -1,0 +1,16 @@
+{
+  "name": "cwitemcostcalc",
+  "version": "1.0.0",
+  "description": "Chat Wars item cost calculate",
+  "scripts": {
+    "build:css": "stylus src/main.styl -o dist/css/main.css -c -w",
+    "build:html": "pug src/index.pug -o dist/ -w",
+    "watch": "parallelshell \"npm run build:css\" \"npm run build:html\" http-server"
+  },
+  "author": "Nelar",
+  "license": "ISC",
+  "devDependencies": {
+    "parallelshell": "^2.0.0",
+    "stylus": "^0.54.5"
+  }
+}
