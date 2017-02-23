@@ -1,0 +1,193 @@
+{
+	"items": [
+		{
+			"name": "Короткий меч",
+			"price": "30",
+			"offense": "3",
+			"defense": "0",
+			"type": "sword"
+		},
+		{
+			"name": "Длинный меч",
+			"price": "244",
+			"offense": "6",
+			"defense": "0",
+			"type": "sword"
+		},
+		{
+			"name": "Меч Вдовы",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "sword"
+		},
+		{
+			"name": "Меч Рыцаря",
+			"price": "1440",
+			"offense": "3",
+			"defense": "0",
+			"type": "sword"
+		},
+		{
+			"name": "Эльфийский меч",
+			"price": "1800",
+			"offense": "18",
+			"defense": "2",
+			"type": "sword"
+		},
+		{
+			"name": "Рапира",
+			"price": "3100",
+			"offense": "22",
+			"defense": "0",
+			"type": "sword"
+		},
+		{
+			"name": "Короткое копьё",
+			"price": "55",
+			"offense": "3",
+			"defense": "1",
+			"type": "spear"
+		},
+		{
+			"name": "Длинное копьё",
+			"price": "976",
+			"offense": "13",
+			"defense": "3",
+			"type": "spear"
+		},
+		{
+			"name": "Эльфийское копьё",
+			"price": "1414",
+			"offense": "14",
+			"defense": "9",
+			"type": "spear"
+		},
+		{
+			"name": "Щит скелета",
+			"price": "50",
+			"offense": "0",
+			"defense": "2",
+			"type": "shield"
+		},
+		{
+			"name": "Бронзовый щит",
+			"price": "103",
+			"offense": "0",
+			"defense": "3",
+			"type": "shield"
+		},
+		{
+			"name": "Серебрянный щит",
+			"price": "311",
+			"offense": "0",
+			"defense": "5",
+			"type": "shield"
+		},
+		{
+			"name": "Мифриловый щит",
+			"price": "498",
+			"offense": "0",
+			"defense": "7",
+			"type": "shield"
+		},
+		{
+			"name": "Кожаные перчатки",
+			"price": "43",
+			"offense": "0",
+			"defense": "2",
+			"type": "gloves"
+		},
+		{
+			"name": "Стальные перчатки",
+			"price": "92",
+			"offense": "0",
+			"defense": "3",
+			"type": "gloves"
+		},
+		{
+			"name": "Серебряные перчатки",
+			"price": "285",
+			"offense": "0",
+			"defense": "4",
+			"type": "gloves"
+		},
+		{
+			"name": "Мифриловые перчатки",
+			"price": "370",
+			"offense": "0",
+			"defense": "6",
+			"type": "gloves"
+		},
+		{
+			"name": "Кожанные сапоги",
+			"price": "43",
+			"offense": "0",
+			"defense": "0",
+			"type": "boots"
+		},
+		{
+			"name": "Стальные сапоги",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "boots"
+		},
+		{
+			"name": "Серебряные сапоги",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "boots"
+		},
+		{
+			"name": "Мифриловые сапоги",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "boots"
+		},
+		{
+			"name": "Кожаный доспех",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "armor"
+		},
+		{
+			"name": "Стальная броня",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "armor"
+		},
+		{
+			"name": "Мифриловая броня",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "armor"
+		},
+		{
+			"name": "Стальной шлем",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "helm"
+		},
+		{
+			"name": "Серебряный шлем",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "helm"
+		},
+		{
+			"name": "Мифриловый шлем",
+			"price": "645",
+			"offense": "10",
+			"defense": "0",
+			"type": "helm"
+		}
+	]
+}
