@@ -123,14 +123,14 @@
 			"name": "Кожанные сапоги",
 			"price": "43",
 			"offense": "0",
-			"defense": "0",
+			"defense": "2",
 			"type": "boots"
 		},
 		{
 			"name": "Стальные сапоги",
 			"price": "645",
-			"offense": "10",
-			"defense": "0",
+			"offense": "0",
+			"defense": "3",
 			"type": "boots"
 		},
 		{
